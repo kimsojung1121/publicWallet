@@ -4,7 +4,7 @@
 
 ### PACKAGE
 
-node.js v16.17.0
+node.js v18.12.1
 react v18.2.0
 typescript v4.9.4
 styled-component v5.3.6
